@@ -8,6 +8,8 @@ import javax.servlet.annotation.WebServlet;
 import java.io.IOException;
 import java.io.PrintWriter;
 
+//This is coding by convention since we do not include 'outside' implementations to dictate our performance
+
 @WebServlet("Hey")
 public class HelloServlet extends HttpServlet {
     //Any request sent to servlet class runs this method
