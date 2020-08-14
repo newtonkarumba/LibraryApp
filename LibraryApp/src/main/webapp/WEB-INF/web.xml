@@ -5,6 +5,7 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
 <!--
+  <!-- This is coding by configuration meaning I get source code from a different source and it dictates how my code is run -->
   <servlet>
     <servlet-name>Hello</servlet-name>
     <servlet-class>HelloServlet</servlet-class>
